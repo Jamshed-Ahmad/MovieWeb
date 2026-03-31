@@ -1,1 +1,14 @@
 Hello world..
+Project: Movies Website
+Branch: customBranch
+
+This file is created to demonstrate Git workflow.
+
+Steps performed:
+1. Cloned the repository
+2. Created a new branch (customBranch)
+3. Added a new file (cont.txt)
+4. Committed changes
+5. Pushed branch to remote repository
+
+Author: Jamshed Ahmad
